@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently mastering **Android app devlopment**
 
-- 💬 Ask me about **xml,gradel,java**
+- 💬 Ask me about **android,java,xml,gradel**
 
 - 📫 How to reach me **ibrahimhachemi21@gmail.com**
 
