@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hachemiibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="hachemiibrahim" /> </p>
 
-- 🌱 I’m currently learning **Android app devlopment**
+- 🌱 I’m currently learning **Android App devlopment**
 
 - 💬 Ask me about **android,java,xml,gradel**
 
