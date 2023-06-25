@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hachemi Ibrahim</h1>
-<h3 align="center">A passionate Android Appvdeveloper from Algeria</h3>
+<h3 align="center">A passionate Mobile App Developer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hachemiibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="hachemiibrahim" /> </p>
 
