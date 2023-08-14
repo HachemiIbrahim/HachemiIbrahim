@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Hachemi Ibrahim</h1>
 <h3 align="center">A passionate Mobile App Developer from Algeria</h3>
 
@@ -22,3 +23,7 @@
 
 
 # 📊 GitHub Stats:
+[](https://github-readme-stats.vercel.app/api?username=HachemiIbrahim&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HachemiIbrahim&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HachemiIbrahim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
