@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Mobile app development using Flutter
 
-- 💬 Ask me about **android,java,xml,gradel**
+- 💬 Ask me about **android,java,flutter**
 
 - 📫 How to reach me **ibrahimhachemi21@gmail.com**
 
