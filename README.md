@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hachemiibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="hachemiibrahim" /> </p>
 
-- 🌱 I’m currently learning Mobile app development using Flutter
+- 🌱 I’m currently learning backend development using dart frog api
 
 - 💬 Ask me about **android,java,flutter**
 
