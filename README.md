@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hachemiibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="hachemiibrahim" /> </p>
 
-- 🌱 I’m currently learning flutter
 
-- 💬 Ask me about **android,java,flutter**
-
-- 📫 How to reach me **ibrahimhachemi21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
