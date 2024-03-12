@@ -5,8 +5,7 @@
 ```bash
 Hey there, 
 I'm Ibrahim, a 3rd year CS student and Mobile developer
-I am currently learning fast api
-i enjoy playing dark souls
+I am currently learning FastAPI
 ```
 
 <div align="left">
