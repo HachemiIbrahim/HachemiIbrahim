@@ -44,8 +44,8 @@ I am currently learning FastAPI
   </a>
 </div>
 
+
 # 📊 GitHub Stats:
-[](https://github-readme-stats.vercel.app/api?username=HachemiIbrahim&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HachemiIbrahim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HachemiIbrahim&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HachemiIbrahim&theme=aura&hide_border=true&size_weight=0.5&count_weight=0.5)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HachemiIbrahim&theme=aura&hide_border=true)
 
