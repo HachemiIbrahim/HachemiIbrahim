@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)](https://rishavchanda.io)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hachemiibrahim&label=Profile%20views&color=0e75b6&style=flat" alt="hachemiibrahim" /> </p>
 
