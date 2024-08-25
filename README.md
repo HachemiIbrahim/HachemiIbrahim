@@ -3,7 +3,7 @@
 
 ```bash
 Hey there, 
-I'm Ibrahim, a 3rd year CS student and Mobile developer
+I'm Ibrahim, a 4th year CS student and Mobile developer
 I am currently learning FastAPI
 ```
 
